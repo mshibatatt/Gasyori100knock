@@ -20,8 +20,8 @@
 	],
 
 	// Use these setting in working on EC2
-	"workspaceFolder": "/workspace",
-  	"workspaceMount": "source=remote-workspace,target=/workspace,type=volume"
+	// "workspaceFolder": "/workspace",
+  	// "workspaceMount": "source=remote-workspace,target=/workspace,type=volume"
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
