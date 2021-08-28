@@ -1,0 +1,4 @@
+{
+    // setting to work on EC2
+    // "docker.host":"ssh://ec2-user@175.41.201.214"
+}
