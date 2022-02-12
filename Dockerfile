@@ -1,5 +1,5 @@
 FROM ubuntu:20.04
-LABEL auther="Masahiro Shibata mshibatatt.com"
+LABEL author="Masahiro Shibata mshibatatt@gmail.com"
 
 ENV DEBIAN_FRONTEND=noninteractive 
 ENV TZ=Asia/Tokyo 
